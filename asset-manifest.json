@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//BetzabeG.github.io//proyectoFinal/static/css/main.a806a583.css",
+    "main.js": "//BetzabeG.github.io//proyectoFinal/static/js/main.d2ec5822.js",
+    "static/media/img-2.jpg": "//BetzabeG.github.io//proyectoFinal/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/cuartaG.jpg": "//BetzabeG.github.io//proyectoFinal/static/media/cuartaG.d1cdf811c6aa04262d7b.jpg",
+    "index.html": "//BetzabeG.github.io//proyectoFinal/index.html",
+    "main.a806a583.css.map": "//BetzabeG.github.io//proyectoFinal/static/css/main.a806a583.css.map",
+    "main.d2ec5822.js.map": "//BetzabeG.github.io//proyectoFinal/static/js/main.d2ec5822.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a806a583.css",
+    "static/js/main.d2ec5822.js"
+  ]
+}
